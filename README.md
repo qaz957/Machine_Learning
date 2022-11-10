@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning with Credit Risk
 
 ## Overview
 
@@ -60,3 +60,6 @@ Precision: 99%
 Recall: 94%
 
 ![EasyEnsemble](https://user-images.githubusercontent.com/108296899/201089036-2c63995b-6601-406a-91a6-36d5bf0de84a.png)
+
+## Summary
+From these results we can see that the Balanced Random Forest and Easy AdaBoost Classifers are both nearly 30% more accurate that the other 4 models, with the Easy AdaBoost Classifier having a slight edge. That model will operate best when predicting results.
